@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "appCamara",
-    "slug": "appCamara",
+    "name": "Câmara Municipal de Hortência",
+    "slug": "cm-hortencia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.rgsites.camaras.cmhortencia"
     },
     "web": {
       "favicon": "./assets/favicon.png"
